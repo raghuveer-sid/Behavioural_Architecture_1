@@ -1,0 +1,8 @@
+<launch> 
+
+	<!-- Nodes -->
+	<node name="person_command" pkg="my_dog" type="person_command.py" output="screen"/> 
+	<node name="state_machine" pkg="my_dog" type="state_machine.py" output="screen"/> 
+	
+
+</launch> 
