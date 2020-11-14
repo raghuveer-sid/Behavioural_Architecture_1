@@ -3,6 +3,7 @@
 This is the assgnment of the lab 1 of Experimental robotics lab simulating a pet robot interacting with a human in ros_noetic
 
 ## Software architecture
+![SOFAR](https://user-images.githubusercontent.com/62798224/99132178-958ac380-2615-11eb-9802-2ee405bc236a.png)
 
 
 *'person_command'*
@@ -30,7 +31,10 @@ The state_machine shifts the three states namely :
 
 ## Package and files list
 
-**m **
+![tree](https://user-images.githubusercontent.com/62798224/99132216-b3582880-2615-11eb-8ce5-e5bbe5b5a5cd.png)
+
+Along with those files a zip file named doc is present.which contains the documentation from Doxygen.General folder could not be uploaded since it had too many files.
+
 ## Installation and running the code
 *'Clone the repository'*
 ```
@@ -38,7 +42,7 @@ git clone https://github.com/raghuveer-sid/EXPRL_Assignment_1-
 ```
 *'run roscore'*
 ```
-roscore
+roscorehttps://www.youtube.com/watch?v=3fv4n6kj4xA&list=RD_PBlykN4KIY&index=8
 ```
 *'open new terminal'*
 *'goto specific directory'*
