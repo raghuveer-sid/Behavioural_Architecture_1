@@ -9,11 +9,7 @@ This is the assgnment of the lab 1 of Experimental robotics lab simulating a pet
 *'person_command'*
 This node publishes a topic command. The user gives a command either **sleep*** or **play**.If its play a random coordinate is generated and assigned so that the dog will go there.
 
-*'drive_bot'*
-This component is responsible for making the pet robot navigate in the modelled world based on the pos(target position) it receives.
 
-*'go_to_point_ball'*
-This component is responsible for making the green ball navigate in the modelled world based on the pos(target position) it receives.
 
 
 *'state_machine'*
